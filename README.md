@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iemanuilov
-- 👀 Interested in computer science, mathematics and patent law
+- 👋 Hi, I’m Ivo
+- 👀 I'm interested in computer science, mathematics and patent law
 - 🌱 Currently learning about computational approaches to law and software inventions
-- 💞️ Looking to collaborate on interdisciplinary research projects 
+- 💞️ Looking to collaborate on interdisciplinary research projects
 - 📫 How to reach me? Email, Twitter, or LinkedIn 
 
 <!---
