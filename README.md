@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ivo. I'm an interdisciplinary researcher, lawyer and developer.
-- 👀 I'm interested in computer science, mathematics and patent law
-- 🌱 Currently learning about computational approaches to law and causation in software inventions
-- 💞️ Looking to collaborate on interdisciplinary research projects in the field of law and computer science
+- 👋 Hi, I’m Ivo. I'm an IP lawyer and developer.
+- 👀 I'm interested in computer science, open source and AI
+- 🌱 Currently learning about open source licensing in the AI supply chain
+- 💞️ Looking to collaborate on open source projects in the field of open source AI
 - 📫 How to reach me? Try [Twitter](https://www.twitter.com/ieemanuilov) or [LinkedIn](https://www.linkedin.com/in/ivoemanuilov/) 
 
 <!---
