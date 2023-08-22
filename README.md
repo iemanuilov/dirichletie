@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivo. I'm an IP lawyer and developer.
+- 👋 Hi, I’m Ivo. I'm an IP lawyer and a computer engineer.
 - 👀 I'm interested in patents, open source, computer science and AI
 - 🌱 Currently learning about open source licensing of AI
 - 💞️ Looking to collaborate on open source projects in the field of open source AI
